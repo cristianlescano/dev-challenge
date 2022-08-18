@@ -1,0 +1,5 @@
+{ 
+  "env": { 
+            "MONGO_CONNECTION": "mongodb+srv://crislescano:crislescano@servidor.gcfla.mongodb.net/challenge?retryWrites=true&w=majority"
+         }
+}
